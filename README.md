@@ -5,9 +5,13 @@ This repo contains an interactive Python Notebook containing a customized Faster
 This repo contains an interactive Python Notebook containing a multi-layer neural network built using Keras + Tensorflow. The goal of this classifier is to predict whether health records have an increased change of heart attack or not.
 
 ## Table of Contents
-* `heart-attack-classifier.ipynb` - Interactive Python Notebook containing the machine learning solution incl. data acquisition, data preprocessing/preparation, model selection and training, model performance and observations, and comprehensive summary of findings. 
-* `heart-attack-classifier-report.md` - Markdown version of final report covering this research in depth
-* `heart-attack-classifier-report.pdf` - PDF version of the above file
+|File|Notes|
+|---|---|
+|test|test|
+|test|test|
+* [`dog_cat_object_detector_tuned.ipynb`](./dog_cat_object_detector_tuned.ipynb) - Interactive Python Notebook containing the machine learning solution incl. data acquisition, data preprocessing/preparation, model selection and training, model performance and observations, and comprehensive summary of findings. 
+* [`dog_cat_object_detector_tuned.md`](./dog_cat_object_detector_tuned.md) - Markdown version of final report covering this research in depth
+* [`images/`](./images/) - Images referenced by Markdown file above
 
 ### **Tech Stack**
 * **Development Environment(s):**
